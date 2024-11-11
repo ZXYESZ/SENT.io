@@ -1,4 +1,1 @@
-<?php
-header("Location: https://www.youtube.com/@dangeroucrichkid");
-exit();
-?>
+<? php header("Location: https://www.youtube.com/@dangeroucrichkid"); ?>
